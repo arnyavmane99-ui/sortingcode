@@ -8,8 +8,6 @@ void bubblesort(){
 }
 
 int main(){
-    cout<<"hello world";
-    cout<<"my name is iron man";
-    cout<<"my name is hulk";
+    
     return 0;
 }
